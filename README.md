@@ -23,5 +23,10 @@ If you run into any issues reach out to me on GitHub @TheeStickmahn!
 -TheStickmahn
 
 ------------------------------------------------------------------------------------------
+Does it work?
+
+Windows: 100%
+Linux: ?
+Mac: Almost 100% sure it does not work.
 
 (If the original creators of the sound want to contact me they can reach my email at didiask@poopie.org)
