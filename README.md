@@ -21,3 +21,7 @@ Step 4: Rename it to "Ouch.ogg" and drag it into the "files" folder.
 If you run into any issues reach out to me on GitHub @TheeStickmahn!
 
 -TheStickmahn
+
+------------------------------------------------------------------------------------------
+
+(If the original creators of the sound want to contact me they can reach my email at didiask@poopie.org)
